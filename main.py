@@ -4,7 +4,7 @@ import random
 def quizzes():
     
    
-    x = random.randrange(1,25)
+    x = random.randrange(1,26)
     
     if x == 1:
         answer = input("How many paws does a cat has? ")
